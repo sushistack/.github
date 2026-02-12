@@ -74,7 +74,7 @@ Currently focused on **DevOps at scale** — managing CI/CD pipelines with Ansib
 
 | Badge | Certification | Year |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/34bd5869-09ab-489b-a162-d794346e6e79" width="80" /> | [**CKAD** (Certified Kubernetes Application Developer)](https://github.com/user-attachments/assets/ac95f481-d031-4b1f-b69e-eb14b0ac7502) | 2024 |
+| <img src="https://github.com/user-attachments/assets/34bd5869-09ab-489b-a162-d794346e6e79" width="80" /> | [**CKAD** (Certified Kubernetes Application Developer)](https://www.credly.com/badges/f8126173-2924-496b-b729-bc62f72efe5d) | 2024 |
 | <img src="https://github.com/user-attachments/assets/eaa3c25c-6d5d-4df9-a768-467fbcdf9407" width="80" /> | [**AWS DVA-C02** (Developer Associate)](https://www.credly.com/badges/ac75177d-5e17-4f81-8994-3d816e037137) | 2026 |
 
 ---
